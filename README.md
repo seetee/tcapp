@@ -1,4 +1,4 @@
-# tcapp
+# Teknikcollege Stenungsund App
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
@@ -7,7 +7,7 @@
 ![GitHub release](https://img.shields.io/github/v/release/seetee/tcapp)
 ![GitHub contributors](https://img.shields.io/github/contributors/seetee/tcapp)
 
-Teknikcollege Stenungsund App
+Ett Drupal 8 sub-theme till Bootstrap för en app från Teknikcollege Stenungsund. 
 
 ## Contributors
 
