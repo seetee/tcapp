@@ -27,7 +27,7 @@ a:visited {
 	color: #aaa;
 }
 
-a {
+.schema a {
 	text-decoration: none;
 	padding-top: 0.3rem;
 	/*background-color: #cecece; */
@@ -38,7 +38,7 @@ a {
 	padding-right: 0.1rem;
 }
 
-p .active{
+.schema p .active{
 	border-top: solid #4789c6 0.3rem;
 	padding: 0.3rem;
 	color: #555;

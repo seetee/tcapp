@@ -1,8 +1,8 @@
 framework:
   css:
     theme:
-      css/schema.css {}
-      css/blixtgordon.css {}
+      css/schema.css: {}
+      css/blixtgordon.css: {}
       css/style.css: {}
 
 # Uncomment for LESS source JavaScript files.
