@@ -1,13 +1,17 @@
-# Teknikcollege Stenungsund App
-
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
+# @tcstenungsund app
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/seetee/tcapp)
 ![GitHub repo size](https://img.shields.io/github/repo-size/seetee/tcapp)
 ![GitHub release](https://img.shields.io/github/v/release/seetee/tcapp)
 ![GitHub contributors](https://img.shields.io/github/contributors/seetee/tcapp)
 
-Ett Drupal 8 sub-theme till Bootstrap för en app från Teknikcollege Stenungsund. 
+A Drupal subtheme for the Teknikcollege Stenungsund webapp found att http://app.tcstenungsund.se/
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+* Drupal 8
+* Bootstrap
 
 ## Contributors
 
@@ -15,6 +19,8 @@ Thanks to the following people who have contributed to this project:
 
 * [@seetee](https://github.com/seetee)
 * [@mrscarn](https://github.com/mrscarn)
+* [@Mattias-Arvaeus](https://github.com/Mattias-Arvaeus)
+* [@Weeaboo420](https://github.com/Weeaboo420)
 
 ## Contact
 
