@@ -7,11 +7,16 @@
 
 A Drupal subtheme for the Teknikcollege Stenungsund webapp found att http://app.tcstenungsund.se/
 
-## Prerequisites
+## Drupal 8 modules used in the project
 
-Before you begin, ensure you have met the following requirements:
-* Drupal 8
-* Bootstrap
+* [Token](https://www.drupal.org/project/token)
+* [ctools](https://www.drupal.org/project/ctools)
+* [Backup and Migrate](https://www.drupal.org/project/backup_migrate)
+* [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
+* [IMCE](https://www.drupal.org/project/imce)
+* [PWA](https://www.drupal.org/project/pwa)
+* [Cheseburger Menu](https://www.drupal.org/project/cheeseburger_menu)
+* [Bootstrap](https://www.drupal.org/project/bootstrap)
 
 ## Contributors
 
